@@ -1,0 +1,28 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Role Playing Game",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willig0203/jest-another-RPG.git"
+  },
+  "author": "Gary Williams, GarywareLLC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willig0203/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/willig0203/jest-another-RPG#readme",
+  "dependencies": {
+    "nodejs": "^0.0.0"
+  },
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
